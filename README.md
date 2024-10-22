@@ -1,10 +1,6 @@
 # Git 기초
 
----
-
 ## 목차
-
----
 
 - [Git이란?](#git이란)
 - [Git 기본 명령어](#git-기본-명령어)
@@ -55,8 +51,6 @@ git push origin main
 ```
 
 ![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-
----
 
 ## 추가 리소스
 
